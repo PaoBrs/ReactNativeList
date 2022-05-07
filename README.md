@@ -1,2 +1,2 @@
 # List made with React Native
-![logotype-08](ReactNativeLits/assets/express.png)
+![logotype-08](assets/express.png)
